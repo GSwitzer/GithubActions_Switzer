@@ -80,7 +80,7 @@ public class Program
 
 	public static double Divide(string x, string y)
 	{
-		return double.Parse(x) / double.Parse(y);
+		return 0.0;
 	}
 
 	// Implement this method following a similar pattern as above
