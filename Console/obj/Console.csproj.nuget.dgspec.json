@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj": {}
+    "c:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj": {
+    "c:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj",
+        "projectUniqueName": "c:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "C:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj",
+        "projectPath": "c:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\Guenther\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\obj\\",
+        "outputPath": "c:\\Users\\Guenther\\Desktop\\schoool_UNL\\term_7\\CSCE 361\\CILab\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
