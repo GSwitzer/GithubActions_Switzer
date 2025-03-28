@@ -1,0 +1,15 @@
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\bin\Debug\net8.0\Console.exe
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\bin\Debug\net8.0\Console.deps.json
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\bin\Debug\net8.0\Console.dll
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\bin\Debug\net8.0\Console.pdb
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.sourcelink.json
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.dll
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\refint\Console.dll
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.pdb
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+C:\Users\Guenther\Desktop\schoool_UNL\term_7\CSCE 361\CILab\Console\obj\Debug\net8.0\ref\Console.dll
